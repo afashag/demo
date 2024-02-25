@@ -1,0 +1,20 @@
+@media (max-width: 1050px) {
+  .burger {
+    display: block;
+    position: absolute;
+    right: 20px;
+  }
+  .header__menu {
+    display: none;
+    margin-top: 50px;
+  }
+  .header__logo {
+    z-index: 6;
+  }
+  .header__btn{
+    display: none;
+  }
+  .header__row{
+    justify-content: center;
+  }
+}
